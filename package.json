@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "core-js": "^3.35.0",
-    "nuxt": "^3.9.1",
+    "nuxt": "^3.9.3",
     "uid": "^2.0.2",
     "vue2-animate": "^2.1.4"
   },
